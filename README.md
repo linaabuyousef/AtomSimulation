@@ -40,7 +40,7 @@ Contributions are welcome! Here's how you can help:
 - **Suggesting Enhancements**: Have a great idea to improve the simulation? Create a new issue and describe your idea.
 - **Pull Requests**: Have a fix or feature you'd like to contribute? Make a pull request!
 
-Please read our [Contributing Guidelines](CONTRIBUTING.md) and our [Code of Conduct](CODE_OF_CONDUCT.md) for more information.
+Please read our [Contributing Guidelines](CONTRIBUTING.md) for more information.
 
 ## Contact
 
